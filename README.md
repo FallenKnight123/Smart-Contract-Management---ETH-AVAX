@@ -16,7 +16,7 @@ To get started with this project in Visual Studio Code, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone <[repository-url](https://github.com/FallenKnight123/Smart-Contract-Management---ETH-AVAX/blob/main/README.md)>
+   git clone <https://github.com/FallenKnight123/Smart-Contract-Management---ETH-AVAX/blob/main/README.md>
    ```
 
 2. Open the cloned project folder in Visual Studio Code.
