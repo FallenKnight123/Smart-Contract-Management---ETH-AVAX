@@ -1,7 +1,7 @@
 
 # Virtual Bank
 
-Welcome to Virtual Bank! This repository contains [brief description of the project].
+Welcome to Virtual Bank! This repository contains Step-by-Step Guide to Open the Project.
 
 ## Getting Started
 
