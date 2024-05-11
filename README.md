@@ -1,6 +1,3 @@
-Certainly! Here's a GitHub README template:
-
----
 
 # Virtual Bank
 
